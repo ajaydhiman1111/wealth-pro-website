@@ -1,0 +1,30 @@
+.admin-page {
+  background: #f4f7fb;
+  color: #111827;
+  min-height: 100vh;
+}
+
+.admin-page h1,
+.admin-page h2,
+.admin-page h3,
+.admin-page h4,
+.admin-page h5,
+.admin-page h6,
+.admin-page p,
+.admin-page span,
+.admin-page td,
+.admin-page th,
+.admin-page label {
+  color: #111827;
+}
+
+.admin-page input,
+.admin-page textarea,
+.admin-page select {
+  color: #111827;
+  background: white;
+}
+
+.admin-page table {
+  color: #111827;
+}
